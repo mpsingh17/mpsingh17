@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, 👋 I'm Manpreet. You can call me MP.
+<hr />
+I'm a passionate web developer with a solid foundation built upon 4 years of hands-on experience. My GitHub repository is a testament to my dedication to the craft, housing projects that span the realms of JavaScript, C#, and ASP.NET. As a team player, I thrive in collaborative environments, contributing positively to group dynamics and synergizing with fellow developers. <br /><br />
+
+My knack for problem-solving is an essential driver in my development journey; I find joy in dissecting challenges and crafting elegant solutions. What sets me apart is my insatiable appetite for learning. I'm always eager to embrace new technologies that empower me to deliver impactful, polished results.
+
+If you think we can collaborate on a project, please do not hesitate to react out at [mpsingh17@outlook.co.nz](mailto:mpsingh17@outlook.co.nz)
 
 <!--
 **mpsingh17/mpsingh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
