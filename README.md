@@ -4,7 +4,7 @@ I'm a passionate web developer with a solid foundation built upon 4 years of han
 
 My knack for problem-solving is an essential driver in my development journey; I find joy in dissecting challenges and crafting elegant solutions. What sets me apart is my insatiable appetite for learning. I'm always eager to embrace new technologies that empower me to deliver impactful, polished results.
 
-If you think we can collaborate on a project, please do not hesitate to react out at [mpsingh17@outlook.co.nz](mailto:mpsingh17@outlook.co.nz)
+If you think we can collaborate on a project, please do not hesitate to reach out at [mpsingh17@outlook.co.nz](mailto:mpsingh17@outlook.co.nz)
 
 <!--
 **mpsingh17/mpsingh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
